@@ -1,7 +1,7 @@
 # Movie Search Engine
 
 Skeleton
-there is a seperate data folder that should contain the ratings andd basic tsv files from the link in the google doc, its to nig to commit so implment on your side
+there is a seperate data folder that should contain the ratings and basic tsv files from the link in the google doc, its to big to commit so implment on your side
 
 shouldd look this
 
