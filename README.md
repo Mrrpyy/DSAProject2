@@ -1,9 +1,42 @@
 # Movie Search Engine
 
-Skeleton
-there is a seperate data folder that should contain the ratings and basic tsv files from the link in the google doc, its to big to commit so implment on your side
+## Team Members
 
-shouldd look this
+- Brian Tang 
+- Member 2
+- Member 3
+
+## Project Description
+
+A movie search engine that compares the performance of a Trie and a Hash Table for searching large movie datasets.
+
+## Dataset
+
+Download:
+
+- title.basics.tsv
+- title.ratings.tsv
+
+Place them inside:
+
+data/
+
+## Build
+
+Open the project in CLion.
+
+Build using CMake.
+
+Run:
+
+MovieSearchEngine
+
+## Features
+
+- Load IMDb datasets
+- Search movies
+- Autocomplete
+- Benchmark Trie vs Hash Table
 
 MovieSearchEngine/
 │
