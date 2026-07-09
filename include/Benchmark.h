@@ -1,2 +1,9 @@
 #pragma once
-class Benchmark{public:void run();};
+#include <vector>
+#include "Movie.h"
+
+
+class Benchmark {
+public:
+    void run(const std::vector<Movie>& movies); 
+};
