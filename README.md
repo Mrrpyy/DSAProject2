@@ -3,8 +3,8 @@
 ## Team Members
 
 - Brian Tang 
-- Member 2
-- Member 3
+- Guilherme Beltrao Carvalheira,
+- Omar Porven Miranda
 
 ## Project Description
 
