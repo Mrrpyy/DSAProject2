@@ -1,12 +1,18 @@
+# CLion and IDE files
 .idea/
+
+# CMake build output
 cmake-build-*/
 build/
+Testing/
 
-data/title.basics.tsv
-data/title.ratings.tsv
-*.gz
-
+# Compiled files
 *.o
 *.obj
 *.exe
 *.out
+
+# Dataset archives and large datasets
+*.gz
+data/title.basics.tsv
+data/title.ratings.tsv
