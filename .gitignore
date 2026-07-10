@@ -1,19 +1,12 @@
-# CLion and CMake output
 .idea/
 cmake-build-*/
 build/
 
-# Compiled files
+data/title.basics.tsv
+data/title.ratings.tsv
+*.gz
+
 *.o
 *.obj
 *.exe
 *.out
-
-# Operating-system files
-.DS_Store
-Thumbs.db
-
-# Large IMDb datasets
-data/title.basics.tsv
-data/title.ratings.tsv
-*.gz
