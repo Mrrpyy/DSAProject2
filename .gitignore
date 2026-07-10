@@ -1,7 +1,7 @@
-# CLion and IDE files
+# CLion / JetBrains project settings
 .idea/
 
-# CMake build output
+# CMake and CLion build output
 cmake-build-*/
 build/
 Testing/
@@ -12,7 +12,11 @@ Testing/
 *.exe
 *.out
 
-# Dataset archives and large datasets
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Compressed and extracted IMDb datasets
 *.gz
 data/title.basics.tsv
 data/title.ratings.tsv
