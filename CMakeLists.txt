@@ -18,7 +18,6 @@ add_executable(MovieSearchEngine
         src/Utilities.cpp
 )
 
-
 target_include_directories(MovieSearchEngine PRIVATE include)
 
 if (MSVC)
