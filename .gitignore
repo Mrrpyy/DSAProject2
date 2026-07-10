@@ -1,9 +1,0 @@
-cmake-build-*/
-build/
-.idea/workspace.xml
-*.o
-*.obj
-*.exe
-data/title.basics.tsv
-data/title.ratings.tsv
-*.gz

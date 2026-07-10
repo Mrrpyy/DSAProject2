@@ -1,4 +1,0 @@
-# Movie Search Engine
-
-Skeleton
-
